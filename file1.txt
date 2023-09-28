@@ -1,1 +1,2 @@
 file1 of branchB
+this is branchA file 1
